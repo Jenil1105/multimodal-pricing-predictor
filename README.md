@@ -1,4 +1,4 @@
-# PriceFusion - ZeroVector
+# Multimodal-pricing-predictor - ZeroVector
 **Amazon ML Challenge 2025 | Smart Product Pricing Solution**
 
 **Team:** ZeroVector  
